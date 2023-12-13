@@ -42,3 +42,5 @@ Things I am using
 ## Reference
 
 - [antfu use](https://github.com/antfu/use)
+
+- [awesome-collections](https://github.com/Simon-He95/awesome-collections/tree/main/zshrc/.oh-my-zsh)
