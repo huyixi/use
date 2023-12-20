@@ -14,7 +14,7 @@ Things I am using
 
 - [`zsh`](https://zsh.org/) - Shell
 
-  Config: [.zsrch](https://github.com/huyixi/use/.zshrc)
+  Config: [.zsrch](https://github.com/huyixi/use/blob/master/.zshrc)
 
 ## Chrome Extensions
 
