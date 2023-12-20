@@ -14,6 +14,8 @@ Things I am using
 
 - [`zsh`](https://zsh.org/) - Shell
 
+  Config: [.zsrch](https://github.com/huyixi/use/.zshrc)
+
 ## Chrome Extensions
 
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - User scripts for any website
