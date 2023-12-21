@@ -46,3 +46,5 @@ Things I am using
 - [antfu use](https://github.com/antfu/use)
 
 - [awesome-collections](https://github.com/Simon-He95/awesome-collections/tree/main/zshrc/.oh-my-zsh)
+
+- [mathiasbynens dotfiles](https://github.com/mathiasbynens/dotfiles)
